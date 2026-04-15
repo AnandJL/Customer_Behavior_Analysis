@@ -1,5 +1,5 @@
-Customer Behavior Analysis Project
-Overview
+# Customer Behavior Analysis Project
+# Overview
 
 
 This project demonstrates an end-to-end data analytics workflow, starting from data loading and exploration to building an interactive dashboard and presenting insights. The goal is to analyze the dataset, extract meaningful insights using SQL and Python, and present the results through a Power BI dashboard and presentation.
@@ -8,12 +8,12 @@ The project showcases practical skills in data cleaning, exploratory data analys
 
 
 
-DATASET
+# DATASET
 
 
 The dataset used in this project contains structured data suitable for analysis and visualization.
 
-Key characteristics of the dataset:
+## Key characteristics of the dataset:
 
 Tabular structured data
 
@@ -25,7 +25,7 @@ Used for deriving business insights through SQL queries and visualizations
 
 
 
-Tools & Technologies
+# Tools & Technologies
 
 The following tools and technologies were used in this project:
 
@@ -43,17 +43,17 @@ Gamma – Presentation and reporting
 Jupyter Notebook / VS Code – Development environment
 
 
-Project Workflow / Steps
+# Project Workflow / Steps
 
 
-1. Data Loading
+## 1. Data Loading
 
 Imported the dataset using Python.
 
 Loaded the data into a Pandas DataFrame for analysis.
 
 
-2. Exploratory Data Analysis (EDA)
+## 2. Exploratory Data Analysis (EDA)
 
 Examined dataset structure, columns, and data types.
 
@@ -62,7 +62,7 @@ Generated summary statistics.
 Visualized distributions, trends, and relationships.
 
 
-3. Data Cleaning
+## 3. Data Cleaning
 
 Handled missing values.
 
@@ -73,7 +73,7 @@ Corrected inconsistent data formats.
 Prepared data for analysis and SQL querying.
 
 
-4. SQL Analysis
+## 4. SQL Analysis
 
 Loaded cleaned data into a relational database.
 
@@ -88,7 +88,7 @@ Extract key business metrics
 Answer analytical questions
 
 
-5. Dashboard Development
+## 5. Dashboard Development
 
 Imported processed data into Power BI.
 
@@ -103,7 +103,7 @@ Category comparisons
 Filters and slicers for exploration
 
 
-6. Reporting & Presentation
+## 6. Reporting & Presentation
 
 Summarized insights from the analysis.
 
@@ -117,7 +117,7 @@ The Power BI dashboard provides a visual summary of the analysis and allows user
 
 
 
-Features include:
+# Features include:
 
 KPI indicators
 
@@ -131,7 +131,7 @@ Data-driven insights
 
 
 
-Key Results & Insights
+# Key Results & Insights
 
 Some of the main outcomes of the analysis include:
 
@@ -145,7 +145,7 @@ Actionable insights derived from data exploration
 
 
 
-Future Improvements
+# Future Improvements
 
 Automate the data pipeline
 
